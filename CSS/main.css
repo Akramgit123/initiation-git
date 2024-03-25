@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+
+.list img{
+    width: 100%;
+    object-fit: cover;
+}
